@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Richards Louis\Documents\Visual Studio 2015\Projects\Windows10\Adpotbox - Business\Adpotbox\bin\ARM\Release\Adpotbox_2.0.1001.0_ARM.appx
+SymbolPackage=C:\Users\Richards Louis\Documents\Visual Studio 2015\Projects\Windows10\Adpotbox - Business\Adpotbox\AppPackages\Adpotbox_2.0.1001.0_Test\Adpotbox_2.0.1001.0_ARM.appxsym
+ResourcePack=C:\Users\Richards Louis\Documents\Visual Studio 2015\Projects\Windows10\Adpotbox - Business\Adpotbox\bin\ARM\Release\Adpotbox_2.0.1001.0_scale-100.appx
+ResourcePack=C:\Users\Richards Louis\Documents\Visual Studio 2015\Projects\Windows10\Adpotbox - Business\Adpotbox\bin\ARM\Release\Adpotbox_2.0.1001.0_scale-125.appx
+ResourcePack=C:\Users\Richards Louis\Documents\Visual Studio 2015\Projects\Windows10\Adpotbox - Business\Adpotbox\bin\ARM\Release\Adpotbox_2.0.1001.0_scale-150.appx
+ResourcePack=C:\Users\Richards Louis\Documents\Visual Studio 2015\Projects\Windows10\Adpotbox - Business\Adpotbox\bin\ARM\Release\Adpotbox_2.0.1001.0_scale-400.appx
