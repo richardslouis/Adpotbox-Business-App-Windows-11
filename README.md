@@ -1,4 +1,4 @@
-# Adpotbox-Business-App-Windows-11
+# Adpotbox Business (ILRLabs)
 Adpotbox App [Win11 version]
 
 # Overview
